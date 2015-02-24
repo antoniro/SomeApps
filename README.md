@@ -1,0 +1,2 @@
+# SomeApps
+Mostly school projects! 
