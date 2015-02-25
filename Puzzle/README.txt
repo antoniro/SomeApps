@@ -1,21 +1,21 @@
 This is the Assignment number 2 of ITI 1121B
-Group: Oscar Anthony GBEGAN(7131908) & Elijah Balogun(7309156)
+Group: Oscar Anthony GBEGAN & Elijah Balogun
 
 ==============================================================
 
 You can change the picture used in the puzzle!
 here are the steps to do so:
 
-1. Trim your picture into 8 square/tiles (same height and width) sub-pictures
+1. Trim your picture into 9 square/tiles (same height and width) sub-pictures
    you can use any tool for that!. 
    Make sure that you save them in a ".png" format.
 
-2. Rename the 8  newly created pictures as follow: 
+2. Rename 8 of the 9 newly created pictures as follow: 
 	- The 1st (top-left) tile to "img-01"
 	- The 2nd (top-middle) tile to "img-02"
 	- ...
-	- The 7th (bottom-middle) tile to "img-07"
-	- and the 8th (botton-rigth) tile ro "img-08"
+	- The 7th (bottom-left) tile to "img-07"
+	- and the 8th (botton-middle) tile to "img-08"
 	
 	Here's a representation of the picture with 
 	different tiles numbers:
@@ -29,7 +29,7 @@ here are the steps to do so:
 	|	  |	    |	      |
 	+---------+---------+---------+
 	|	  |	    |	      |
-	|    7	  |    8    |    9    |
+	|    7	  |    8    |    0    |
 	|	  |	    |	      |
 	+---------+---------+---------+
 
