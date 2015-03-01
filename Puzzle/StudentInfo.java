@@ -16,7 +16,6 @@ public class StudentInfo {
     
     System.out.println("******************************  ******************************");
     System.out.println("* Oscar Anthony GBEGAN       *  * Elijah Balogun             *");
-    System.out.println("* 7131908                    *  * 7309156                    *"); 
     System.out.println("* ITI1121 - B                *  * ITI1121 - B                *");
     System.out.println("* Assignment 2               *  * Assignment 2               *");
     System.out.println("******************************  ******************************");
